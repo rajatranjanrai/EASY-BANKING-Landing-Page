@@ -1,1 +1,1 @@
-# EASY-BANKING-Lending-Page
+# EASY-BANKING-Landing-Page
